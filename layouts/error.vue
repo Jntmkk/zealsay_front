@@ -9,7 +9,7 @@
       <div v-if="error.statusCode === '404'" class="text-center">
         <h1>404</h1>
         <h2 class="my-3 headline ">
-          抱歉, 再怎么找也找不到啦!!!!
+          抱歉, 再怎么找也找不到啦!!!!!
         </h2>
         <div>
           <v-btn color="primary" @click="goHome">
